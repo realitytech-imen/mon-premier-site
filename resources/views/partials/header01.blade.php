@@ -49,7 +49,7 @@
                                         ACTUALITES
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Blog</a>
+                                        <a class="dropdown-item" href="{{ route('blog') }}">Blog</a>
                                         <a class="dropdown-item" href="#">Événements</a>
                                         <a class="dropdown-item" href="#">Recrutements</a>
                                     </div>
